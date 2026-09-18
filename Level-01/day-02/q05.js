@@ -1,4 +1,4 @@
-// rectangle , area? = l*w, perimeter? = 2(l*w) 
+// rectangle , area? = l*b, perimeter? = 2(l+b) 
 
 let length = 10;
 let breadth = 20;
